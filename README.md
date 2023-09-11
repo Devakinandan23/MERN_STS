@@ -1,1 +1,1 @@
-# MERN_STS
+# MernStackAssignments
